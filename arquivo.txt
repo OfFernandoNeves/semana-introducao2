@@ -1,0 +1,123 @@
+Especialize-se para trabalhar com Ciência de Dados: aqui estão os melhores cursos da Udemy para você
+por
+F451 Mídia
+publicado em
+17 de janeiro de 2022 @ 16:15
+atualizado em
+14 de janeiro de 2022 @ 10:54
+
+As mudanças tecnológicas estão alterando cada vez mais a forma como vivemos, do trabalho ao lazer, do aprendizado ao comércio, revolucionando o mundo como conhecíamos.
+
+Em meio a essas mudanças, o setor de ciência de dados se destaca como um campo promissor para quem deseja acompanhar as tendências e se manter relevante no mercado de trabalho.
+
+Por isso a Udemy, marketplace líder global para ensino e aprendizado, está sempre oferecendo cursos completos para ajudar quem deseja se especializar, tornando-se o profissional que o mercado busca.
+
+Confira algumas informações sobre o setor.
+
+Por que investir em ciência de dados?
+A ciência de dados é uma área que trata sobre a coleta, tratamento e análise de dados, relacionando-se a outros campos como matemática, programação e estatística.
+
+O Fórum Econômico Mundial lista essa área como uma das mais profissões de maior demanda nos próximos anos. A expectativa é que haja cerca de 6 milhões de vagas no setor em 2022. Ela é também uma das áreas que mais foram requisitadas durante a pandemia.
+
+Faltam profissionais qualificados para a quantidade de vagas hoje disponíveis em ciência de dados e por isso aproveitar os cursos do segmento na Udemy é uma ótima ideia para quem quer ingressar nesse mercado.
+
+Abaixo, segue a nossa seleção personalizada com os cursos que consideramos ideais no segmento.
+
+Confira agora:
+
+Formação Cientista de Dados com Python e R [2021]
+Curso em português.
+
+Aprenda a aplicar conceitos de mineração de textos, criar modelos com Deep Learning, elaborar elementos gráficos e conceitos de Gestão de Projetos, linguagem SQL, probabilidade, testes de hipótese, bancos de dados NoSQL com MongoDB.
+
+O curso inclui 46 horas de vídeos, 1 artigo, 1 recurso para download e 1 simulado. Ao final, ganha um certificado de conclusão.
+
+Faça agora a sua matrícula por R$ 39,90.
+
+Super Formação Inteligência Artificial e Machine Learning
+Curso em português.
+
+Aprenda a implementar algoritmos de busca e otimização, classificar documentos com processamento de linguagem natural, criar modelos de análises preditivas e aplicações web de inteligência artificial, e muito mais.
+
+Terá acesso a 23,5 horas de vídeo, 3 artigos e 2 recursos para download. Ao final, ganha um certificado de conclusão.
+
+Inscreva-se por R$39,90.
+
+Data Science de A a Z – Extração e Exibição dos Dados
+Curso em português.
+
+Você estudará sobre estatística aplicada e Machine Learning, e aprenderá a realizar análise de dados e gráficos com Python.
+
+Terá acesso a 32,5 horas de vídeo, 2 artigos e 3 recursos para download. Ao final, ganha um certificado de conclusão.
+
+Inscreva-se por R$39,90.
+
+Java COMPLETO Programação Orientada a Objetos +Projetos
+Curso em português.
+
+Aqui, você aprenderá a compreender diagramas de classe UML, criar soluções flexíveis, construir web services com o auxílio do Spring Boot e outras práticas.
+
+O curso inclui 50 horas de vídeos, 36 artigos e 49 recursos para download. Ao final, ganha um certificado de conclusão.
+
+Inscreva-se agora por R$ 189,90.
+
+Lógica de Programação Para Iniciantes e Estudantes
+Curso em português.
+
+Aprenda a trabalhar com variáveis e estruturas de decisão, analisar soluções computacionais e conceitos de programação de computadores em diferentes linguagens.
+
+O curso inclui 4,5 horas de vídeo e 4 recursos de download. Ao final, ganha um certificado de conclusão.
+
+Faça sua matrícula por R$ 39,90.
+
+O curso completo de Banco de Dados e SQL, sem mistérios!
+Curso em português.
+
+Esta formação te ensina a criar bancos de dados consistentes, executar linguagens em SQL ou de Consulta Estruturada, realizar backups, aplicar constraints em tabelas, criar triggers e muito mais.
+
+O curso inclui 58 horas de vídeos, 8 artigos e 15 recursos para download. Ao final, ganha um certificado de conclusão.
+
+Inscreva-se por R$199,90.
+
+Data Science e Machine Learning com Estatística e Python
+Curso em português.
+
+Aprenda manipulação de Time Series, fundamentos da linguagem Python, estatística para Data Science e fundamentos de Pandas.
+
+Tenha acesso a 21 horas de vídeo, 16 artigos e 18 recursos para download. Ao final, ganha um certificado de conclusão.
+
+Inscreva-se agora por R$ 224,90.
+
+Programação PYTHON do ZERO ao Avançado 2021 + 2 CURSOS
+Curso em português.
+
+Capacite-se para analisar e visualizar dados com Python, criando funções personalizadas e aprendendo sobre OOP.
+
+Terá acesso a 15,5 horas de vídeo, 3 artigos e 14 recursos para download. Ao final, ganha um certificado de conclusão.
+
+Inscreva-se agora por R$ 184,90.
+
+Deep Learning com Python de A a Z – O Curso Completo
+Curso em português.
+
+Aprenda conceitos sobre redes neurais convolucionais, parâmetros de redes neurais, mapas auto organizáveis, Boltzmann Machines, autoencoders e mais temas.
+
+Terá acesso a 20 horas de vídeo, 19 artigos e 27 recursos para download. Ao final, ganha um certificado de conclusão.
+
+Inscreva-se por R$39,90.
+
+Masterclass JavaScript Algoritmos e Estruturas de Dados
+Curso em inglês, legendas em português.
+
+Domine dezenas de algoritmos populares, aperfeiçoe suas habilidades para resolver problemas e torne-se um desenvolvedor mais eficiente.
+
+Aqui, você terá 21,5 horas de vídeo, 32 artigos, 80 recursos para download e 85 exercícios de codificação. Ao final, ganha um certificado de conclusão.
+
+Inscreva-se agora por R$199,90.
+
+Estude na Udemy
+A Udemy reúne mais 44 milhões de alunos e 594 milhões de matrículas em sua plataforma. Estes números expressivos refletem a dinâmica que a empresa oferece: estudantes aprendendo em seu próprio ritmo, utilizando apenas um computador ou celular conectado à internet.
+
+São mais de 183 mil cursos em 75 línguas (+ legendas) e diferentes áreas indo de desenvolvimento pessoal a finanças, de música a design, de estilo de vida a TI e software; ao se matricular em um curso, você terá acesso vitalício ao conteúdo.
+
+Navegue pelo site da Udemy e conheça todos os cursos disponíveis para você.
