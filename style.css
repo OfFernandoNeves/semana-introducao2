@@ -1,0 +1,76 @@
+* {
+    font-family: 'Roboto', Times, serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: rgb(240, 230, 147);
+    margin-left: 10px;
+}
+h1 {
+    font-size: 55px;
+    padding-top: 50px;
+    padding-right: 10px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+
+
+}
+h2 {
+    font-size: 20px;
+    color: black;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.postcurso {
+    font-size: 20px;
+    color: black;
+}
+.matricula {
+    border: 1px solid black;
+    color: gray;
+    font-size: 16px;
+    
+}
+h3 {
+    box-sizing: border-box;
+}
+
+h3:hover {
+    background: black;
+    
+}
+
+p {
+    line-height: 2;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    width: 420px;
+   
+}
+
+iframe {
+    max-width: 100%;
+    max-height: 100%;
+}
+@media (max-width: 700px) {
+    h1{
+        color:rgb(129, 19, 19)
+    }
+    h2 {
+        color: rgb(31, 99, 226);
+    }
+}
+.imagem {
+    float: left;
+    margin-right: 10px;
+}
+.clearfix{
+    clear: both;
+}

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display Flex</title>
+    <style>
+        .card {
+            width: 100px;
+            height: 100px;
+            background: blue;
+            color: #fff;
+        }
+        .pai {
+            background: gray;
+            height: 500px;
+            display: flex;
+            flex-direction: column;
+            /*flex-wrap: wrap;*/
+            /*justify-content: flex-end;*/
+            /*justify-content: space-around;*/
+            /*justify-content: space-evenly;*/
+            justify-content: space-between;
+            /*align-items: center;*/
+            /*align-items: flex-end;*/
+            align-items: flex-start;
+
+        }
+    </style>
+</head>
+<body>
+    <div class="pai">
+      <div class="card">1</div>
+      <div class="card">2</div>
+      <div class="card">3</div>
+      <div class="card">4</div>
+</body>
+</html>
